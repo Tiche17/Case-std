@@ -1,3 +1,8 @@
+# Syntiche Tshimanga
+#Main.py
+# This program determin if a student is qualified for the Dean's  list of Honor roll
+
+
 last_name = input('Enter a last name (or ZZZ to exit): ') 
 while last_name != 'ZZZ' : 
     first_name = input('Enter a first name: ')
